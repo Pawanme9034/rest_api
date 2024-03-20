@@ -1,0 +1,2 @@
+REST_API=app
+FLASK_DEBUG=1
